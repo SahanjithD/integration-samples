@@ -1,0 +1,3 @@
+[workspace]
+title = "aws-customer-inquiry-agent"
+packages = ["support-portal", "inquiry-listener", "inquiry-agent", "mcp-servers/reservation", "mcp-servers/loyalty", "mcp-servers/payment"]
